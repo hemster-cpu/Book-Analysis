@@ -1,1 +1,6 @@
 # Book-Analysis
+
+
+Problem Statement Online book retailers and publishing houses face a critical challenge in predicting a book's commercial success before its release or during its early market presence. With thousands of new titles published annually, making accurate revenue forecasts and inventory decisions can mean the difference between profitable operations and costly overstock or stockouts. This project addresses this business need by framing the problem as a regression task to predict a book's popularity and market performance, using "reviews count" as a proxy for commercial success and reader engagement from best selling online books data.
+
+Success will be measured by RMSE (Root Mean Square Error) as the primary metric, providing interpretable error margins in terms of review counts, with R² serving as a secondary metric to explain the variance captured by our model. From a business perspective, a successful model would enable publishers to identify potential bestsellers earlier in their lifecycle, optimize initial print runs, and make data-driven decisions about marketing investments. The business KPI would be a 15% improvement in inventory turnover rate, a 10% reduction in unsold inventory and 10% improvement in marketing ROI, achieved through more accurate sales forecasting based on predicted review volumes.
