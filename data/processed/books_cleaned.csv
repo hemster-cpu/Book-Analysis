@@ -1,0 +1,101 @@
+id,book name,author,rating,reviews count,form,price,reading age,print length,publishing date,genre,log_reviews,year,month
+1,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,4.8,145747,Hardcover,18.88,,320.0,2018-10-16,Self-Improvement,11.88963438199166,2018.0,10.0
+2,"Iron Flame (Standard Edition) (The Empyrean, 2)",Rebecca Yarros,4.7,395512,Hardcover,11.05,,640.0,2023-11-07,Fiction & Action & Adventure,12.887938935434729,2023.0,11.0
+3,Spare,Prince Harry  The Duke of Sussex,4.5,116101,Hardcover,11.99,,416.0,2023-01-10,Biographies & Memoirs,11.662224394066463,2023.0,1.0
+4,Fourth Wing,Rebecca Yarros,4.8,472618,Paperback,13.62,,544.0,2024-09-17,Fiction & Action & Adventure,13.066044846058432,2024.0,9.0
+5,The Woman in Me,Britney Spears,4.4,51520,Hardcover,11.37,,288.0,2023-10-24,Biographies & Memoirs,10.849744770527753,2023.0,10.0
+6,Lessons in Chemistry: A Novel,Bonnie Garmus,4.6,322650,Hardcover,13.94,,400.0,2022-04-05,Fiction & Action & Adventure,12.684326522692826,2022.0,4.0
+7,The 48 Laws of Power,Robert Greene,4.7,87375,Paperback,13.99,,452.0,2000-09-01,Politics & Social Sciences,11.377975924391935,2000.0,9.0
+8,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Bessel van der Kolk M.D.,4.8,82564,Paperback,14.39,18 years and up,464.0,2015-09-08,Health & Fitness & Dieting,11.321341140897088,2015.0,9.0
+9,It Starts with Us: A Novel (It Ends with Us),Colleen Hoover,4.5,228242,Paperback,1.88,,336.0,2022-10-18,Fiction & Action & Adventure,12.338166129859884,2022.0,10.0
+10,Outlive: The Science and Art of Longevity,Peter Attia MD,4.6,19946,Hardcover,18.0,,496.0,2023-03-28,Health & Fitness & Dieting,9.900834035070565,2023.0,3.0
+11,It Ends with Us: A Novel,Colleen Hoover,4.7,405311,Paperback,9.03,,384.0,2016-08-02,Fiction & Action & Adventure,12.912412419876102,2016.0,8.0
+12,The Housemaid,Freida McFadden,4.5,653111,Paperback,9.69,,336.0,2022-08-23,Mystery & Thriller & Suspense,13.389503909631,2022.0,8.0
+13,The Very Hungry Caterpillar,Eric Carle,4.9,78436,Board book,5.75,1 - 2 years,26.0,1994-03-23,Reading & Writing,11.270051033785931,1994.0,3.0
+14,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,4.4,80996,Paperback,9.99,,416.0,2018-04-03,Politics & Social Sciences,11.30216739593165,2018.0,4.0
+15,Verity,Colleen Hoover,4.6,443390,Paperback,12.09,,336.0,2021-10-26,Fiction & Action & Adventure,13.002207278258753,2021.0,10.0
+16,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.6,270507,Paperback,6.91,,400.0,2018-05-29,Fiction & Action & Adventure,12.508056951692714,2018.0,5.0
+17,The Creative Act: A Way of Being,Rick Rubin,4.7,10805,Hardcover,16.99,,432.0,2023-01-17,Health & Fitness & Dieting,9.28785681440401,2023.0,1.0
+18,Taylor Swift: A Little Golden Book Biography,"Wendy Loggia, Elisa Chavarri",4.9,9344,Hardcover,4.35,5 years and up,24.0,2023-05-02,Arts & Music & Photography,9.142596719889664,2023.0,5.0
+19,The Four Agreements: A Practical Guide to Personal Freedom,"Janet Mills, Don Miguel Ruiz",4.7,119661,Paperback,7.05,,160.0,1997-11-07,Self-Improvement,11.69242638082741,1997.0,11.0
+20,Demon Copperhead: A Novel,Barbara Kingsolver,4.6,146667,Hardcover,17.1,,560.0,2022-10-18,Fiction & Action & Adventure,11.895926808094103,2022.0,10.0
+21,A Court of Thorns and Roses,Sarah J. Maas,4.6,314472,Paperback,12.8,,448.0,2020-06-02,Fiction & Action & Adventure,12.658653500880824,2020.0,6.0
+22,Interesting Facts For Curious Minds,Jordan Moore,4.6,15400,Paperback,10.41,,196.0,2022-07-18,Puzzles & Games,9.642187721358466,2022.0,7.0
+23,No Brainer (Diary of a Wimpy Kid #18) (Volume 18),Jeff Kinney,4.7,13081,Hardcover,2.03,8 years and up,224.0,2023-10-24,Reading & Writing,9.478992518521158,2023.0,10.0
+24,I Love You to the Moon and Back,Amelia Hepworth,4.9,80263,Board book,3.97,baby and up,28.0,2015-03-03,Reading & Writing,11.293076480605448,2015.0,3.0
+25,Dog Man: Twenty Thousand Fleas Under the Sea: A Graphic Novel (Dog Man #11): From the Creator of Captain Underpants,Dav Pilkey,4.8,11089,Hardcover,5.48,7 years and up,240.0,2023-03-28,Comics & Graphic Novels,9.313799080344413,2023.0,3.0
+26,Things We Never Got Over (Knockemout),Lucy Score,4.5,232211,Paperback,9.77,,570.0,2022-01-12,Fiction & Action & Adventure,12.355406026497148,2022.0,1.0
+27,The Covenant of Water (Oprah's Book Club),Abraham Verghese,4.6,94536,Hardcover,17.96,,736.0,2023-05-02,Fiction & Action & Adventure,11.45674657124378,2023.0,5.0
+28,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr. , Eric Carle",4.9,55794,Board book,4.82,1 - 2 years,24.0,1996-09-15,Reading & Writing,10.929439538619802,1996.0,9.0
+29,Baking Yesteryear: The Best Recipes from the 1900s to the 1980s,B. Dylan Hollis,4.9,13217,Hardcover,16.78,,256.0,2023-07-25,Cookbooks & Food,9.489334816030398,2023.0,7.0
+30,I Love You Like No Otter: A Funny and Sweet Valentine's Day Board Book for Babies and Toddlers (Punderland),Rose Rossner,4.9,14622,Board book,5.37,baby and up,24.0,2020-01-07,Reading & Writing,9.590350910611878,2020.0,1.0
+31,"Friends, Lovers, and the Big Terrible Thing",Matthew Perry,4.5,60311,Hardcover,10.83,,272.0,2022-11-01,Humor & Entertainment,11.007286367891538,2022.0,11.0
+32,Rich Dad Poor Dad,Robert T. Kiyosaki,4.7,106198,Paperback,7.34,,336.0,2022-04-05,Business & Money,11.573069971549787,2022.0,4.0
+33,"The Wager: A Tale of Shipwreck, Mutiny and Murder",David Grann,4.4,39574,Hardcover,14.47,1 year and up,352.0,2023-04-18,Biographies & Memoirs,10.585952884749213,2023.0,4.0
+34,"Oh, the Places You'll Go!",Dr. Seuss ,4.9,53602,Hardcover,8.64,3 - 4 years,56.0,1990-01-22,Reading & Writing,10.889360315641877,1990.0,1.0
+35,My First Library: Boxset of 10 Board Books for Kids,Wonder House Books,4.6,88321,Board book,14.99,1 - 2 years,220.0,2018-04-25,Reading & Writing,11.388744506182066,2018.0,4.0
+36,If He Had Been with Me,Laura Nowlin,4.2,60754,Paperback,6.88,,400.0,2019-11-01,Fiction & Action & Adventure,11.014604662342713,2019.0,11.0
+37,Goodnight Moon,"Margaret Wise Brown, Clement Hurd",4.9,31124,Board book,1.89,baby and up,34.0,1991-08-02,Arts & Music & Photography,10.345766633767008,1991.0,8.0
+38,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,4.4,129310,Hardcover,13.28,,416.0,2022-07-05,Fiction & Action & Adventure,11.769975634613951,2022.0,7.0
+39,"World of Eric Carle, Around the Farm 30",PI Kids,4.8,26464,Hardcover,11.99,1 - 2 years,24.0,2013-01-31,Reading & Writing,10.183578384292089,2013.0,1.0
+40,The Wonderful Things You Will Be,Emily Winfield Martin,4.9,32274,Hardcover,9.45,3 years and up,36.0,2015-08-25,Reading & Writing,10.382048215714843,2015.0,8.0
+41,Fourth Wing (Special Edition),Rebecca Yarros,4.6,5028,Hardcover,26.91,,528.0,2023-11-07,Fiction & Action & Adventure,8.522976436171964,2023.0,11.0
+42,The Silent Patient,Alex Michaelides,4.4,398561,Paperback,2.39,,368.0,2021-05-04,Mystery & Thriller & Suspense,12.895618348548451,2021.0,5.0
+43,Remarkably Bright Creatures: A Read with Jenna Pick,Shelby Van Pelt,4.6,129211,Board book,14.53,,368.0,2022-05-03,Mystery & Thriller & Suspense,11.769209745274594,2022.0,5.0
+44,"The Psychology of Money: Timeless lessons on wealth, greed, and happiness",Morgan Housel,4.7,68563,Paperback,14.18,,256.0,2020-09-08,Business & Money,11.135522894626948,2020.0,9.0
+45,The Shadow Work Journal,Keila Shaheen,4.7,6331,Paperback,23.66,,138.0,2021-11-02,Health & Fitness & Dieting,8.753371421000903,2021.0,11.0
+46,Oath and Honor: A Memoir and a Warning,Liz Cheney,4.8,17084,Hardcover,14.78,,384.0,2023-12-05,Biographies & Memoirs,9.745956164549392,2023.0,12.0
+47,Where's Bluey?: A Search-and-Find Book,Penguin Young Readers Licenses,4.8,9137,Paperback,2.7,2 years and up,32.0,2022-01-25,Arts & Music & Photography,9.120196822123217,2022.0,1.0
+48,Twisted Love,Ana Huang,4.2,142671,Paperback,9.99,,352.0,2022-09-27,Fiction & Action & Adventure,11.86830356837466,2022.0,9.0
+49,Icebreaker,Hannah Grace,4.3,113454,Paperback,9.4,,448.0,2023-02-07,Fiction & Action & Adventure,11.63916156151537,2023.0,2.0
+50,Things We Hide from the Light,Lucy Score,4.4,119095,Paperback,9.95,,592.0,2023-02-21,Fiction & Action & Adventure,11.687685169556893,2023.0,2.0
+51,Reminders of Him: A Novel,Colleen Hoover,4.7,347742,Paperback,9.03,,335.0,2022-01-18,Fiction & Action & Adventure,12.759218980179783,2022.0,1.0
+52,A Court of Mist and Fury,Sarah J. Maas,4.8,287325,Paperback,12.16,,656.0,2020-06-02,Fiction & Action & Adventure,12.568372738610265,2020.0,6.0
+53,The Legend of Zelda: Tears of the Kingdom  The Complete Official Guide: Collector's Edition,Piggyback,4.8,7876,Hardcover,20.19,,496.0,2023-07-07,Computers & Technology,8.971702399703325,2023.0,7.0
+54,Elon Musk,Walter Isaacson,4.7,22689,Hardcover,19.93,,688.0,2023-09-12,Biographies & Memoirs,10.029679577773887,2023.0,9.0
+55,I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works (Second Edition),Ramit Sethi,4.6,23034,Paperback,10.17,,352.0,2019-05-14,Business & Money,10.044770077370018,2019.0,5.0
+56,Haunting Adeline,H. D. Carlton,4.4,163368,Paperback,17.18,,627.0,2021-08-13,Mystery & Thriller & Suspense,12.00376672492696,2021.0,8.0
+57,How to Catch a Dinosaur,Adam Wallace,4.8,18031,Hardcover,5.6,3 years and up,40.0,2019-09-03,Reading & Writing,9.799903236279558,2019.0,9.0
+58,Ugly Love: A Novel,Colleen Hoover,4.6,165631,Paperback,8.91,,336.0,2014-08-05,Fiction & Action & Adventure,12.017523738980463,2014.0,8.0
+59,If Animals Kissed Good Night,Ann Whitford Paul,4.8,75734,Board book,4.23,baby and up,34.0,2014-06-03,Reading & Writing,11.234995683961126,2014.0,6.0
+60,Happy Place,Emily Henry,4.2,107168,Hardcover,12.29,,400.0,2023-04-25,Fiction & Action & Adventure,11.582162306694022,2023.0,4.0
+61,Twisted Games,Ana Huang,4.4,108327,Paperback,9.74,,448.0,2022-09-27,Romance,11.59291894066266,2022.0,9.0
+62,Chicka Chicka Boom Boom,"Bill Martin Jr.,  John Archambault , Lois Ehlert",4.9,41314,Board book,4.17,1 - 2 years,36.0,2012-01-01,Reading & Writing,10.628980909135285,2012.0,1.0
+63,Hello Beautiful (Oprah's Book Club): A Novel,Ann Napolitano,4.4,109707,Hardcover,13.97,,400.0,2023-03-14,Fiction & Action & Adventure,11.605577569766599,2023.0,3.0
+64,The Democrat Party Hates America,Mark R. Levin,4.8,5751,Hardcover,13.47,,400.0,2023-09-19,Politics & Social Sciences,8.657302899400882,2023.0,9.0
+65,A Little Life,Hanya Yanagihara,4.5,86622,Paperback,9.25,,832.0,2016-01-26,Fiction & Action & Adventure,11.369320648202583,2016.0,1.0
+66,Meditations,Marcus Aurelius,4.8,18227,Paperback,8.18,,272.0,2003-05-06,Politics & Social Sciences,9.810714152383774,2003.0,5.0
+67,Holly,Stephen King,4.5,43046,Hardcover,13.98,,464.0,2023-09-05,Mystery & Thriller & Suspense,10.670047821016515,2023.0,9.0
+68,The Heaven & Earth Grocery Store,James McBride,4.4,73210,Hardcover,15.05,,400.0,2023-08-08,Fiction & Action & Adventure,11.201100961883556,2023.0,8.0
+69,Scholastic Flash Cards: Sight Words,Scholastic,4.8,32845,Cards,3.07,4 years and up,,2018-03-01,Schools & Teaching,10.399585250897506,2018.0,3.0
+70,Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century (Think and Grow Rich Series),Napoleon Hill,4.8,29360,Paperback,8.24,,320.0,2007-12-15,Business & Money,10.28742254209393,2007.0,12.0
+71,Daisy Jones & The Six: Reese's Book Club: A Novel,Taylor Jenkins Reid,4.4,95715,Paperback,9.33,,400.0,2020-02-04,Fiction & Action & Adventure,11.469140752599207,2020.0,2.0
+72,A Court of Thorns and Roses Paperback Box Set (5 books),Sarah J. Maas,4.8,52380,Paperback,47.9,,2896.0,2022-11-01,Fiction & Action & Adventure,10.866299209135672,2022.0,11.0
+73,How to Win Friends & Influence People,Dale Carnegie ,4.7,109703,Paperback,15.44,,320.0,1998-10-01,Self-Improvement,11.60554110867969,1998.0,10.0
+74,The Complete Cookbook for Young Chefs,Americas Test Kitchen Kids,4.8,25279,Hardcover,9.4,8 years and up,208.0,2018-10-16,Cookbooks & Food,10.137768848260794,2018.0,10.0
+75,"The Boy, the Mole, the Fox and the Horse: Inspiring Conversations on Hope, Love and Personal Growth",Charlie Mackesy,4.8,127734,Hardcover,17.62,7 years and up,128.0,2019-10-22,Comics & Graphic Novels,11.75771308434231,2019.0,10.0
+76,Can't Hurt Me: Master Your Mind and Defy the Odds,David Goggins,4.8,104512,Paperback,24.99,,364.0,2018-12-10,Self-Improvement,11.557066744563603,2018.0,12.0
+77,The Complete Summer I Turned Pretty Trilogy (Boxed Set): The Summer I Turned Pretty; It's Not Summer Without You; We'll Always Have Summer,Jenny Han,4.8,14746,Paperback,24.62,12 years and up ,928.0,2013-05-07,Fiction & Action & Adventure,9.598794951250941,2013.0,5.0
+78,The Exchange: After The Firm (The Firm Series),John Grisham,4.1,72785,Hardcover,12.97,,352.0,2023-10-17,Mystery & Thriller & Suspense,11.195278907998974,2023.0,10.0
+79,Dragons Love Tacos,"Adam Rubin, Daniel Salmieri",4.8,20638,Hardcover,9.82,2 years and up,40.0,2012-06-14,Reading & Writing,9.934937768809375,2012.0,6.0
+80,The Nightingale: A Novel,Kristin Hannah,4.7,396005,Paperback,13.48,,608.0,,Fiction & Action & Adventure,12.889184641636986,,
+81,Harry Potter Paperback Box Set,"J. K. Rowling, Mary GrandPre?",4.9,65142,Paperback,52.62,9 years and up,,2009-07-01,Reading & Writing,11.08434013242126,2009.0,7.0
+82,Adult Children of Emotionally Immature Parents,Lindsay C. Gibson,4.8,27090,Paperback,10.21,,216.0,2015-06-01,Self-Improvement,10.206956848388238,2015.0,6.0
+83,Stop Overthinking,Nick Trenton,4.7,14647,Paperback,10.2,,200.0,2021-03-01,Business & Money,9.592059086354347,2021.0,3.0
+84,A Court of Wings and Ruin,Sarah J. Maas,4.7,269981,Paperback,12.81,,736.0,2020-06-02,Fiction & Action & Adventure,12.506110569091524,2020.0,6.0
+85,The Subtle Art of Not Giving a F*ck,Mark Manson,4.5,158416,Hardcover,13.43,,224.0,2016-09-13,Self-Improvement,11.97298607583606,2016.0,9.0
+86,American Prometheus,"Kai Bird, Martin J. Sherwin",4.7,13739,Paperback,14.71,,721.0,2006-05-01,Biographies & Memoirs,9.52806656577634,2006.0,5.0
+87,Fast Like a Girl,Dr. Mindy Pelz,4.7,7992,Hardcover,12.81,,352.0,2022-12-27,Health & Fitness & Dieting,8.98632143762602,2022.0,12.0
+88,The Shadow Work Journal 2nd Edition,Keila Shaheen,4.6,3296,Paperback,21.74,,227.0,2023-02-28,Self-Improvement,8.10076824307173,2023.0,2.0
+89,The Alchemist,Paulo Coelho,4.6,123058,Paperback,5.03,,208.0,2014-04-15,Biographies & Memoirs,11.720419194144123,2014.0,4.0
+90,Love You Forever,"Robert Munsch, Sheila McGraw",4.9,67104,Paperback,4.98,baby and up,32.0,1995-09-01,Reading & Writing,11.114013835831907,1995.0,9.0
+91,How to Catch a Unicorn,"Adam Wallace, Andy Elkerton",4.8,37369,Hardcover,5.96,3 years and up,40.0,2019-03-05,Reading & Writing,10.52862352247953,2019.0,3.0
+92,All the Light We Cannot See,Anthony Doerr,4.5,235857,Paperback,10.18,,544.0,2017-04-04,Fiction & Action & Adventure,12.370985208001462,2017.0,4.0
+93,The Ballad of Songbirds and Snakes,Suzanne Collins,4.5,105084,Paperback,10.83,12 years and up ,528.0,2023-08-01,Fiction & Action & Adventure,11.562524825461512,2023.0,8.0
+94,What to Expect When You're Expecting,Heidi Murkoff,4.8,30260,Paperback,9.43,,656.0,2016-05-31,Health & Fitness & Dieting,10.317615033722944,2016.0,5.0
+95,The Last Thing He Told Me,Laura Dave,4.3,168512,Paperback,7.16,,336.0,2023-03-21,Fiction & Action & Adventure,12.034768177133854,2023.0,3.0
+96,"From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes)",Snoop Dogg,4.8,40073,Hardcover,12.0,1 year and up,192.0,2018-10-23,Cookbooks & Food,10.59848302395369,2018.0,10.0
+97,The 5 Love Languages,Gary Chapman,4.8,91554,Paperback,1.89,,224.0,2024-06-01,Self-Improvement,11.424695163575814,2024.0,6.0
+98,"My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!",Crystal Radke,4.8,89173,Paperback,5.26,3 - 4 years,84.0,2019-08-27,Reading & Writing,11.398344796258973,2019.0,8.0
+99,How to Catch a Mermaid,"Adam Wallace, Andy Elkerton",4.8,34994,Hardcover,5.71,3 years and up,40.0,,Reading & Writing,10.46296047312364,,
+100,A Court of Frost and Starlight,Sarah J. Maas,4.2,181184,Paperback,12.74,,272.0,2020-06-02,Fiction & Action & Adventure,12.107273887707489,2020.0,6.0
