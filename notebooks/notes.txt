@@ -1,0 +1,2 @@
+Reminders:
+At the start, it will ask the upload the best seller books csv file.  
